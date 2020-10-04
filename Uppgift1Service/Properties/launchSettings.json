@@ -1,0 +1,10 @@
+﻿{
+  "profiles": {
+    "Uppgift1Service": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "DOTNET_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}
